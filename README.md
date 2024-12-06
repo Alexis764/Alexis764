@@ -17,15 +17,15 @@
 
 ## Skills  
 ### Programming Languages  
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat&logo=kotlin&logoColor=white&labelColor=5C2D91) ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white&labelColor=E34F26) ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white&labelColor=3776AB)  
+![Kotlin](https://img.shields.io/badge/Kotlin-5C2D91?style=flat&logo=kotlin&logoColor=white&labelColor=5C2D91)  ![Java](https://img.shields.io/badge/Java-E34F26?style=flat)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)  
 ### Frameworks and Libraries  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green?style=flat&logo=spring&logoColor=white&labelColor=6DB33F) ![Jetpack Compose](https://img.shields.io/badge/-Jetpack_Compose-navy?style=flat&logo=jetpackcompose&logoColor=white&labelColor=4285F4)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white&labelColor=6DB33F)  ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white&labelColor=4285F4)  
 ### Tools and Platforms  
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase&logoColor=black&labelColor=FFCA28) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=white&labelColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&labelColor=181717)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&labelColor=FFCA28)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717)  
 ### Architectures and Design Patterns  
-![MVVM](https://img.shields.io/badge/-MVVM-green?style=flat&logoColor=white&labelColor=4CAF50) ![MVC](https://img.shields.io/badge/-MVC-skyblue?style=flat&logoColor=white&labelColor=03A9F4) ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/-Object_Oriented_Programming-black?style=flat&logo=code&logoColor=white&labelColor=263238)  
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=flat)  ![MVC](https://img.shields.io/badge/MVC-03A9F4?style=flat)  ![Object-Oriented Programming (OOP)](https://img.shields.io/badge/Object_Oriented_Programming-263238?style=flat)  
 ### Databases  
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=mysql&logoColor=white&labelColor=00758F) ![NoSQL](https://img.shields.io/badge/-NoSQL-orange?style=flat&logo=mongodb&logoColor=white&labelColor=47A248)  
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white&labelColor=00758F)  ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=47A248) 
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
