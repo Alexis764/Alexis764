@@ -1,7 +1,7 @@
 <div  align="center">
 <h1 align="center">Hello, i'm <a href="https://www.linkedin.com/in/alexisarevalor">Alexis Arevalo</a>👋</h1>
 </div>
-<img src="https://i.imgur.com/jQNWECV.png">
+<img src="Banner.png">
 
 ## About me
 <pre>
